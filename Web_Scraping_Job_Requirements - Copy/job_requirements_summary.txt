@@ -1,0 +1,47 @@
+
+# Job Requirements Summary Report
+
+## Top Hiring Companies
+- Apptad: 35 job postings
+- Virtusa: 11 job postings
+- Wipro: 7 job postings
+- Capgemini: 4 job postings
+- Infosys: 4 job postings
+- Numerator: 3 job postings
+- Digital Solution Tech: 3 job postings
+- Methodhub Software: 3 job postings
+- Persistent: 2 job postings
+- Globallogic: 2 job postings
+
+
+## In-Demand Skills
+- Data Analysis
+- Python
+- Sql
+- Data Analytics
+- Data Mining
+- Data Management
+- Tableau
+- Data
+- Power Bi
+- Data Governance
+
+
+## Popular Job Locations
+- Bengaluru: 34 job postings
+- Hyderabad: 16 job postings
+- Pune: 15 job postings
+- Gurugram: 11 job postings
+- Chennai: 10 job postings
+- Remote: 7 job postings
+- Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru: 7 job postings
+- Hybrid - Bengaluru: 6 job postings
+- Mumbai: 4 job postings
+- Noida: 3 job postings
+
+
+## Recommendations for Recruitment Agency
+- Focus sourcing efforts on top companies and locations.
+- Target candidates with skills listed above.
+- Regularly update job postings based on trending skills.
+
