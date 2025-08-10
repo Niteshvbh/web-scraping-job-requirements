@@ -43,19 +43,3 @@ jupyter notebook web_scraping_job_requirements.ipynb
 👤 Author
 Nitesh — Aspiring Applied AI Scientist
 
----
-
-### **4. Solution (for Coursera Template)**
-**Solution:**  
-I developed a Python-based automated pipeline using **Selenium** to scrape job postings for Data Analyst roles across 10 pages (~200 entries). The system extracts job title, company name, location, salary (if available), and listed skills. After cleaning and structuring the data with **Pandas**, I conducted an exploratory analysis to uncover the most in-demand skills, top hiring companies, and major job locations. The results were summarized in an Excel file with visual charts to make insights easy to interpret for recruiters.
-
----
-
-### **5. Approach (for Coursera Template)**
-**Approach:**  
-The project was implemented in three stages:  
-1. **Scraping:** I chose **Selenium** over `requests` due to repeated 403 errors and the need to handle dynamic content. The scraper loops through multiple pages, waits for elements to load, and captures job details.  
-2. **Data Cleaning:** Using **Pandas**, I standardized text, handled missing values, split multiple skills into lists, and normalized location names.  
-3. **Analysis & Visualization:** I aggregated skill counts, ranked companies by job count, and analyzed location trends. Visualizations were generated with **Matplotlib** and results saved in Excel format for easy sharing.  
-
-A key differentiator in my approach was ensuring the scraper was modular, allowing quick adjustments for different job portals or role keywords.
